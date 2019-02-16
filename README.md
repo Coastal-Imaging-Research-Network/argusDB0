@@ -13,5 +13,5 @@ The function 'DBCreateEmptyStruct' was originally developed in the database envi
 
 If you are using your own special tables in a database accessed via the DBConnect/etc. functions of the CIL argusDB code, you can create your own empty structure data using makeDBCreateEmptyStruct, too. 
 
-
+The file 'argusdb.pdf' is documentation written for the database operating environment, but it contains descriptions of the fields used and which appear in the empty structs returned by DBCreateEmptyStruct.
 
